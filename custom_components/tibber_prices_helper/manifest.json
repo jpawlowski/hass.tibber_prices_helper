@@ -1,0 +1,13 @@
+{
+  "domain": "tibber_prices_helper",
+  "name": "Tibber Price Information & Ratings Helper",
+  "codeowners": [
+    "@jpawlowski"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/jpawlowski/tibber_prices_helper",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/jpawlowski/tibber_prices_helper/issues",
+  "version": "0.1.0"
+}
