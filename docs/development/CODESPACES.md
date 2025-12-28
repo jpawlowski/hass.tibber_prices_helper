@@ -1,6 +1,6 @@
 # GitHub Codespaces Development Guide
 
-Integration blueprint is fully compatible with GitHub Codespaces for cloud-based development.
+Tibber Price Information Integration blueprint Ratings Helper is fully compatible with GitHub Codespaces for cloud-based development.
 
 ## Quick Start
 
